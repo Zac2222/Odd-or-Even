@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\refint\Odd-or-Even.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\ref\Odd-or-Even.dll
