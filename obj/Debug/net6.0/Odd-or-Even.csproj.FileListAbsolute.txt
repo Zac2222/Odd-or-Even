@@ -13,3 +13,18 @@ C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChalle
 C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.pdb
 C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.genruntimeconfig.cache
 C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\OddOrEven\Odd-or-Even\obj\Debug\net6.0\ref\Odd-or-Even.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\bin\Debug\net6.0\Odd-or-Even.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\refint\Odd-or-Even.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\Odd-or-Even.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitReview\ZacOddOrEven\Odd-or-Even\obj\Debug\net6.0\ref\Odd-or-Even.dll

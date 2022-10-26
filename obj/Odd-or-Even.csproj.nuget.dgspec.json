@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\OddOrEven\\Odd-or-Even\\Odd-or-Even.csproj": {}
+    "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ZacOddOrEven\\Odd-or-Even\\Odd-or-Even.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\OddOrEven\\Odd-or-Even\\Odd-or-Even.csproj": {
+    "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ZacOddOrEven\\Odd-or-Even\\Odd-or-Even.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\OddOrEven\\Odd-or-Even\\Odd-or-Even.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ZacOddOrEven\\Odd-or-Even\\Odd-or-Even.csproj",
         "projectName": "Odd-or-Even",
-        "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\OddOrEven\\Odd-or-Even\\Odd-or-Even.csproj",
-        "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\OddOrEven\\Odd-or-Even\\obj\\",
+        "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ZacOddOrEven\\Odd-or-Even\\Odd-or-Even.csproj",
+        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitReview\\ZacOddOrEven\\Odd-or-Even\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
